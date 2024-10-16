@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "close_games_hub_app",
+      "package_name": "com.closecompany.games.hub",
+      "sha256_cert_fingerprints":
+      ["9D:44:01:11:09:63:EE:DE:91:BA:C6:6B:8B:9C:C8:1C:F5:FD:E1:01:8B:DD:AE:A7:77:1C:F1:F9:18:48:BE:8A"]
+    }
+  }]
