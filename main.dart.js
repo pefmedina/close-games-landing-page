@@ -72215,7 +72215,7 @@ r=j>480
 q=r?200:j*0.35
 p=r?200:j*0.35
 o=t.D
-q=A.a5e(A.a([A.Un(A.Ja(A.ahu("web/assets/icon_11.png",m,m,m,m,m,m),p,q),m,m)],o),B.ac,B.pN,B.aM,m)
+q=A.a5e(A.a([A.Un(A.Ja(A.ahu("assets/icon_11.png",m,m,m,m,m,m),p,q),m,m)],o),B.ac,B.pN,B.aM,m)
 p=r?320:j*0.5
 r=r?320:j*0.5
 n=this.d
@@ -72250,7 +72250,7 @@ A.pu.prototype={
 S(a){return A.jv(null,A.DI(A.a([this.e,B.vX,A.j3(this.c,B.is,B.bc),B.vX,A.j3(this.d,B.is,B.bc)],t.D),B.ac,B.av,B.di),B.fq,null,330,null,B.fZ,300)}}
 A.Fm.prototype={
 S(a){var s=null,r=B.d.aq(127.5),q=t.kO,p=t.D
-return A.DI(A.a([A.j3("Close Games Experience",A.kh(s,s,B.k,s,s,s,s,s,"Ubuntu",s,s,40,s,s,B.am,s,s,!0,s,s,s,s,s,A.a([new A.dN(5,B.dO,A.cf(r,B.l.gp(0)>>>16&255,B.l.gp(0)>>>8&255,B.l.gp(0)&255),B.hH,7)],q),s,s),B.bc),B.f6,A.Ja(A.j3("We are in love building our history. We are family. We are friends. We are close.",A.kh(s,s,B.k,s,s,s,s,s,"Ubuntu",s,s,32,s,s,B.am,s,s,!0,s,s,s,s,s,A.a([new A.dN(5,B.dO,A.cf(r,B.l.gp(0)>>>16&255,B.l.gp(0)>>>8&255,B.l.gp(0)&255),B.hH,7)],q),s,s),B.bc),s,s),B.f6,A.a5e(A.a([A.ahw(!1,s,!0,A.ahu("web/assets/google.png",s,s,s,s,s,200),s,!0,s,s,s,s,s,s,s,s,s,new A.Yy(this),s,s,s)],p),B.ac,B.ez,B.aM,s)],p),B.ac,B.ez,B.aM)}}
+return A.DI(A.a([A.j3("Close Games Experience",A.kh(s,s,B.k,s,s,s,s,s,"Ubuntu",s,s,40,s,s,B.am,s,s,!0,s,s,s,s,s,A.a([new A.dN(5,B.dO,A.cf(r,B.l.gp(0)>>>16&255,B.l.gp(0)>>>8&255,B.l.gp(0)&255),B.hH,7)],q),s,s),B.bc),B.f6,A.Ja(A.j3("We are in love building our history. We are family. We are friends. We are close.",A.kh(s,s,B.k,s,s,s,s,s,"Ubuntu",s,s,32,s,s,B.am,s,s,!0,s,s,s,s,s,A.a([new A.dN(5,B.dO,A.cf(r,B.l.gp(0)>>>16&255,B.l.gp(0)>>>8&255,B.l.gp(0)&255),B.hH,7)],q),s,s),B.bc),s,s),B.f6,A.a5e(A.a([A.ahw(!1,s,!0,A.ahu("assets/google.png",s,s,s,s,s,200),s,!0,s,s,s,s,s,s,s,s,s,new A.Yy(this),s,s,s)],p),B.ac,B.ez,B.aM,s)],p),B.ac,B.ez,B.aM)}}
 A.Yy.prototype={
 $0(){var s=0,r=A.X(t.H),q,p,o
 var $async$$0=A.Y(function(a,b){if(a===1)return A.U(b,r)
@@ -75029,7 +75029,7 @@ B.wY=new A.TA(!1,127)
 B.fo=new A.tQ(0,"polite")
 B.iW=new A.TB(0,"polite")
 B.fp=new A.tQ(1,"assertive")
-B.cK=new A.p6("web/assets/bg.png",null,null)
+B.cK=new A.p6("assets/bg.png",null,null)
 B.K=new A.p8(0,"up")
 B.bv=new A.p8(1,"right")
 B.J=new A.p8(2,"down")
